@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rui/Desktop/apresentacao/produtorConsumidor/main.c
+semaphore.h
+-
+stdio.h
+-
+ctype.h
+-
+stdlib.h
+-
+pthread.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+string.h
+-
+dirent.h
+-
+unistd.h
+-
+
