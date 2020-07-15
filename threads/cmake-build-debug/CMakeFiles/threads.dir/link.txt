@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/threads.dir/main.c.o  -o threads 
